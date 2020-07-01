@@ -10,15 +10,15 @@ Steps followed while performing Regression Analysis:
 
 ___
 
-since 3 categories exist in target variable it was a bit challenging to find the charts to be used.
+Since 3 categories exist in target variable it was a bit challenging to find the charts to be used.
 Now also I don't have a single chart but I am fine using Pairgrid
 
+__
 
 References:
 
 https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
 https://seaborn.pydata.org/tutorial/axis_grids.html
 https://seaborn.pydata.org/generated/seaborn.PairGrid.html
-
-..https://scikit-learn.org/stable/auto_examples/linear_model/plot_logistic_multinomial.html
-..https://scikit-learn.org/stable/auto_examples/linear_model/plot_iris_logistic.html
+https://scikit-learn.org/stable/auto_examples/linear_model/plot_logistic_multinomial.html
+https://scikit-learn.org/stable/auto_examples/linear_model/plot_iris_logistic.html
